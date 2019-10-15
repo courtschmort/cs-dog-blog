@@ -18,7 +18,7 @@ This is a webpage that serves as a blog for my dog.
 
 This webpage may be viewed on any web browser and edited by following the instructions below to clone or download the repository to your computer.
 
-Click [here](https://courtschmort.github.io/cs-dog-blog/) to open the GitHub Pages website.
+Click [here](https://courtschmort.github.io/cs-dog-blog/index.html) to open the GitHub Pages website.
 
 ###### From GitHub
 1. Click the **Clone or download** dropdown button.
@@ -35,7 +35,7 @@ For more information about cloning repositories available on GitHub, click [here
 
 There are no known bugs at this time.
 
-## Support and contact details
+## Support and Contact Details
 
 If you have any questions, please contact me at courtneyschild@gmail.com.
 
