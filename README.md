@@ -1,6 +1,6 @@
 # A blog for my dog
 
-#### Git, HTML and CSS practice for Epicodus | October 15, 2019
+#### Git, HTML and CSS practice for Epicodus; October 15, 2019
 
 #### By Courtney Schild
 
