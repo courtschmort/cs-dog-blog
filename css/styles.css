@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+h1, h6 {
+  text-transform: uppercase;
+}
+
+h6 {
+  color: grey;
+}
